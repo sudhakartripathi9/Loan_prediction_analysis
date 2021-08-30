@@ -1,0 +1,32 @@
+out put from different models
+
+
+from LogisticRegression :-
+
+                                accuracy 78.86178861788618
+                                corss validation is  80.9462881514061
+
+from DecisionTreeClassifier :-
+
+                                 accuracy 67.47967479674797
+                                corss validation is  70.84899373583899
+                                
+                                
+
+from from RandomForestClassifier:-
+                                accuracy 77.23577235772358
+                                corss validation is  78.34199653471943
+
+
+from ExtraTreesClassifier:-
+                                accuracy 75.60975609756098
+                                corss validation is  76.38944422231107
+
+
+by hyperparameter tuning
+
+from RandomForestClassifier at n_estimators=100 :-
+
+                                    accuracy 78.86178861788618
+                                    corss validation is  80.9462881514061
+
